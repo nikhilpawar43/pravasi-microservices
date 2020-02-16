@@ -1,0 +1,3 @@
+[submodule "pravasi-commons"]
+	path = pravasi-commons
+	url = https://github.com/nikhilpawar43/pravasi-commons.git
